@@ -1,4 +1,7 @@
 # Extracting-Analyzing-Stock-Data
+![sgs](https://github.com/temidayo-egb/Extracting-Analyzing-Stock-Data/assets/137461001/945e6610-efa3-450c-a4ec-fbd8bd246a59)
+
+
 For this project, I will assume the role of a Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. My job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping. The stocks I will worked with are :
 
 
